@@ -1,0 +1,19 @@
+{
+  "name": "artool",
+  "version": "1.0.0",
+  "description": "A JavaScript utility library for array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "denghonghai998@gmail.com",
+  "keywords": [
+    "array",
+    "china"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "deep-equal": "^1.0.1",
+    "mocha": "^6.1.4"
+  }
+}
